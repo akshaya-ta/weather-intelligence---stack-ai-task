@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "An intelligent weather search and 7-day forecast app with AI-powered practical planning recommendations for travel and work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
